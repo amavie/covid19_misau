@@ -1,1 +1,7 @@
-{"confirmed":{"value":1134418,"detail":"https://covid19.mathdro.id/api/confirmed"},"recovered":{"value":233807,"detail":"https://covid19.mathdro.id/api/recovered"},"deaths":{"value":60115,"detail":"https://covid19.mathdro.id/api/deaths"},"dailySummary":"https://covid19.mathdro.id/api/daily","dailyTimeSeries":{"pattern":"https://covid19.mathdro.id/api/daily/[dateString]","example":"https://covid19.mathdro.id/api/daily/2-14-2020"},"image":"https://covid19.mathdro.id/api/og","source":"https://github.com/mathdroid/covid19","countries":"https://covid19.mathdro.id/api/countries","countryDetail":{"pattern":"https://covid19.mathdro.id/api/countries/[country]","example":"https://covid19.mathdro.id/api/countries/USA"},"lastUpdate":"2020-04-04T13:12:51.000Z"}
+{"confirmed":{"value":10,"detail":"https://github.com/amavie/covid19_misau/confirmed"},
+"recovered":{"value":1,"detail":"https://github.com/amavie/covid19_misau/recovered"},
+"deaths":{"value":0,"detail":"https://github.com/amavie/covid19_misau/deaths"},
+"tracked":{"value":408767,"detail":"https://github.com/amavie/covid19_misau/tracked"},
+"tested":{"value":338,"detail":"https://github.com/amavie/covid19_misau/tested"},
+"quarantine":{"value":6142,"detail":"https://github.com/amavie/covid19_misau/quarantine"},
+"lastUpdate":"13h20 – 04/04/2020"}
