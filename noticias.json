@@ -3,7 +3,7 @@
     {
       "id": "1",
       "kasus": "",
-      "provinsi": "Moçambique",
+      "provinsi": "Local",
       "provinsiid": "",
       "umur": "",
       "umurtext": "",
@@ -16,7 +16,7 @@
       "pengumuman": "2 de Março de 2020",
       "penularan": "A Directora Nacional de Saúde Pública, Dra. Rosa Marlene, revelou na habitual conferência de imprensa que não houve       alteração no número de casos, continuando a serem dez, cifra que o país atingiu na Quinta-feira, 02 de Abril.",
       "rs": "",
-      "rsid": ""
+      "rsid": "Titulo da Noticia"
     },
     {
       "id": "2",
