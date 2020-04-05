@@ -2,12 +2,12 @@
   "nodes": [
     {
       "id": "1",
-      "kasus": "1",
-      "provinsi": "Um dos dez casos confirmados de contaminação com o Coronavírus em Moçambique, já está totalmente curado",
+      "kasus": "",
+      "provinsi": "Moçambique",
       "provinsiid": "1",
       "umur": "31",
       "umurtext": "31",
-      "gender": "Feminino",
+      "gender": "",
       "genderid": "1",
       "status": "Positivo",
       "statusid": "1",
@@ -15,7 +15,7 @@
       "wnid": "1",
       "pengumuman": "2 de Março de 2020",
       "penularan": "A Directora Nacional de Saúde Pública, Dra. Rosa Marlene, revelou na habitual conferência de imprensa que não houve       alteração no número de casos, continuando a serem dez, cifra que o país atingiu na Quinta-feira, 02 de Abril.",
-      "rs": "Armando Maputo",
+      "rs": "",
       "rsid": "1"
     },
     {
