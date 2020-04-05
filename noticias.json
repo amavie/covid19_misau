@@ -1,0 +1,99 @@
+{
+  "nodes": [
+        {
+            "id": "1",
+            "kasus": "1",
+            "provinsi": "Cabo Delgado",
+            "provinsiid": "12",
+            "umur": "61",
+            "umurtext": "31",
+            "gender": "Feminino",
+            "genderid": "1",
+            "status": "Recuperado",
+            "statusid": "1",
+            "wn": "WNI",
+            "wnid": "1",
+            "pengumuman": "1 de Abril de 2020",
+            "penularan": "Conhecendo cidadãos japoneses que foram confirmados positivos na Malásia (caso nº 24)",
+            "rs": "RSPI Sulianto Saroso, Jakarta",
+            "rsid": "1"
+        },
+        {
+            "id": "2",
+            "kasus": "2",
+            "provinsi": "DKI Jakarta",
+            "provinsiid": "1",
+            "umur": "64",
+            "umurtext": "64",
+            "gender": "Perempuan",
+            "genderid": "1",
+            "status": "Sembuh",
+            "statusid": "1",
+            "wn": "WNI",
+            "wnid": "1",
+            "pengumuman": "2 Maret 2020",
+            "penularan": "Terhubung dengan kasus #1 (Ibu kasus #1)",
+            "rs": "RSPI Sulianto Saroso, Jakarta",
+            "rsid": "1"
+        },
+
+          ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 3
+    },
+    {
+      "source": 1,
+      "target": 4
+    },
+    {
+      "source": 1,
+      "target": 5
+    },
+    {
+      "source": 7,
+      "target": 8
+    },
+    {
+      "source": 1,
+      "target": 10
+    },
+    {
+      "source": 1,
+      "target": 11
+    },
+    {
+      "source": 1,
+      "target": 12
+    },
+    {
+      "source": 15,
+      "target": 16
+    },
+    {
+      "source": 3,
+      "target": 13
+    },
+    {
+      "source": 1,
+      "target": 21
+    },
+    {
+      "source": 1,
+      "target": 20
+    },
+    {
+      "source": 20,
+      "target": 27
+    },
+    {
+      "source": 22,
+      "target": 53
+    }
+  ]
+}
