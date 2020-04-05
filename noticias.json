@@ -4,7 +4,7 @@
       "id": "1",
       "pais": "Moçambique",
       "provincia": "Maputo",
-      "fonte": "MISAU",
+      "fonte": "covid19.ins.gov.mz",
       "publicado": "05 de Abril de 2020",
       "resumo": "Moçambique continua com dez (10) casos confirmados de pessoas infectados pelo novo Coronavírus – COVID-19, dos quais um está recuperado, segundo informação apresentada este domingo, 05 de Abril, pela Directora Nacional de Saúde Pública, Rosa Marlene."
     },
@@ -12,7 +12,7 @@
       "id": "2",
       "pais": "Portugal",
       "provincia": "Lisboa",
-      "fonte": "MISAU",
+      "fonte": "www.rtp.pt",
       "publicado": "05 de Abril de 2020",
       "resumo": "Os últimos dados da DGS indicam que Portugal registou até agora 295 vítimas mortais (266 ontem). Representa um aumento de 29 vítimas mortais nas últimas 24 horas, ou seja, mais 11 por cento. A maior parte das vítimas mortais são pessoas com 80 ou mais anos."
     },
@@ -20,7 +20,7 @@
       "id": "3",
       "pais": "Alemanha",
       "provincia": "",
-      "fonte": "MISAU",
+      "fonte": "www.rtp.pt",
       "publicado": "05 de Abril de 2020",
       "resumo": "A Alemanha regista 91.714 casos de covid-19, mais 5.936 que na véspera, e 1.342 vítimas mortais, um crescimento de 184, o que significa que o aumento do  número de novos infetados abrandou, mas o de mortes subiu."
     },
@@ -28,7 +28,7 @@
       "id": "4",
       "pais": "Africa",
       "provincia": "",
-      "fonte": "MISAU",
+      "fonte": "www.rtp.pt",
       "publicado": "05 de Abril de 2020",
       "resumo": "O número de mortes provocadas pela Covid-19 em África subiu para 360 num universo de mais de 8.500 casos registados em 50 países, de acordo com a mais recente atualização dos dados da pandemia naquele continente."
     },
@@ -36,7 +36,7 @@
       "id": "5",
       "pais": "China",
       "provincia": "",
-      "fonte": "MISAU",
+      "fonte": "www.rtp.pt",
       "publicado": "05 de Abril de 2020",
       "resumo": "A China Continental registou 30 novos casos de Covid-19, mais 19 do que os anunciados no dia anterior. 25 desses casos são relativos a pessoas de fora que entraram no país."
     },
@@ -44,7 +44,7 @@
       "id": "6",
       "pais": "Moçambique",
       "provincia": "Maputo",
-      "fonte": "MISAU",
+      "fonte": "www.covid19.ins.gov.mz",
       "publicado": "04 de Abril de 2020",
       "resumo": "Foi com alguma satisfação que Rosa Marlene, Directora Nacional de Saúde Pública anunciou o primeiro caso recuperado de Covid-19 no país, informação tornada pública este sabado à margem da Conferência de Imprensa de actualização da informação sobre a doença em Moçambique e no mundo."
     },
@@ -52,7 +52,7 @@
       "id": "7",
       "pais": "Moçambique",
       "provincia": "Maputo",
-      "fonte": "MISAU",
+      "fonte": "www.misau.gov.mz",
       "publicado": "03 de Abril de 2020",
       "resumo": "Pelo segundo dia consecutivo o número de casos confirmados de contaminação com o Coronavírus (COVID-19) no país, mantem-se o mesmo, ou seja, dez (10)."
     },
@@ -61,7 +61,7 @@
       "id": "8",
       "pais": "Moçambique",
       "provincia": "Maputo",
-      "fonte": "MISAU",
+      "fonte": "www.misau.gov.mz",
       "publicado": "02 de Abril de 2020",
       "resumo": "A Directora Nacional de Saúde Pública, Dra. Rosa Marlene, revelou na habitual conferência de imprensa que não houve alteração no número de casos, continuando a serem dez, cifra que o país atingiu na Quinta-feira, 02 de Abril."
     }
