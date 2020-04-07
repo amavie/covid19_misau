@@ -12,4 +12,4 @@
 "countries":"https://covid19.mathdro.id/api/countries",
 "countryDetail":{"pattern":"https://covid19.mathdro.id/api/countries/[country]",
 "example":"https://covid19.mathdro.id/api/countries/USA"},
-"lastUpdate":"2020-04-05T13:30:00.000Z"}
+"lastUpdate":"2020-04-07T14:10:00.000Z"}
