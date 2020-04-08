@@ -1,6 +1,14 @@
 {
   "nodes": [
     {
+      "id": "14",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "08 de Abril de 2020",
+      "resumo": " A pandemia da COVID-19 provocou o aumento do volume das chamadas telefónicas à linha Alô Vida no mês de Março deste ano, ao registar mais de 6 mil solicitações, contra 2 mil de Fevereiro.A linha AlôVida é um serviço de saúde, cujo objectivo é prover informação e esclarecer dúvidas sobre matérias de saúde, através de chamadas telefónicas ou mensagens."
+    },        
+        {
       "id": "1",
       "pais": "Moçambique",
       "provincia": "",
