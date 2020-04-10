@@ -1,5 +1,21 @@
 {
   "nodes": [
+          {
+      "id": "16",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "09 de Abril de 2020",
+      "resumo": "O país continua com 17 casos confirmados de pessoas infectados pela doença provocada pelo novo coronavírus, depois de ontem, quarta-feira, ter aumentado em sete novos casos, seis dos quais resultantes do contacto do caso 10, notificado há uma semana, de um funcionário da companhia petrolífera Total, com um acampamento em Afungi, em Cabo Delgado."
+    },
+      {
+      "id": "15",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "09 de Abril de 2020",
+      "resumo": "MISAU recebe apoio do Banco Letshego para o combate à COVID-19. Trata-se de um apoio monetário no valor de 1.800.000,00 Meticais (um milhão, oitocentos mil meticais), cujo cheque foi entregue na tarde desta quarta-feira, 08 de Abril, em cerimónia havida nas instalações do Ministério da Saúde (MISAU)."
+    },  
     {
       "id": "14",
       "pais": "Moçambique",
