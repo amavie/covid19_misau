@@ -1,5 +1,21 @@
 {
   "nodes": [
+    {
+      "id": "18",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "10 de Abril de 2020",
+      "resumo": "Subiu para 20 o número de casos de contaminação pelo Coronavírus em Moçambique, depois de nas últimas 24 horas terem sido testadas 54 amostras de casos suspeitos, das quais três foram positivos. Os três casos positivos são resultantes dos exames colhidos a onze contactos do paciente número 10, detectado semana passada e que esteve num acampamento de empresa petrolífera Total, na zona de Afungi, em Cabo Delgado.."
+    },
+    {
+      "id": "17",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "10 de Abril de 2020",
+      "resumo": "O Inspector-geral Trabalho, Joaquim Siúta, disse esta sexta-feira, durante a conferência de imprensa de actualização de dados do novo coronavírus em Moçambique, que as empresas mineradoras sul-africanas garantem o pagamento dos salários de todos os trabalhadores durante o período que vigorar o “lock down”, incluindo os moçambicanos que regressaram ao país por conta da situação."
+    },
           {
       "id": "16",
       "pais": "Moçambique",
