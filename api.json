@@ -2,7 +2,7 @@
 "recovered":{"value":2,"detail":"https://github.com/amavie/covid19_misau/recovered"},
 "deaths":{"value":0,"detail":"https://github.com/amavie/covid19_misau/deaths"},
 "tracked":{"value":446259,"detail":"https://github.com/amavie/covid19_misau/tracked"},
-"tested":{"value":537,"detail":"https://github.com/amavie/covid19_misau/tested"},
+"tested":{"value":551,"detail":"https://github.com/amavie/covid19_misau/tested"},
 "quarantine":{"value":2211,"detail":"https://github.com/amavie/covid19_misau/quarantine"},
  "dailySummary":"https://covid19.mathdro.id/api/daily",
 "dailyTimeSeries":{"pattern":"https://covid19.mathdro.id/api/daily/[dateString]",
