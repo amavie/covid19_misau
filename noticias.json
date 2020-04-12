@@ -1,6 +1,7 @@
 {
   "nodes": [
-          "id": "21",
+    {
+      "id": "21",
       "pais": "Moçambique",
       "provincia": "",
       "fonte": "covid19.ins.gov.mz",
