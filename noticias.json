@@ -1,5 +1,28 @@
 {
   "nodes": [
+          "id": "21",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "12 de Abril de 2020",
+      "resumo": "Garantido abastecimento contínuo de água potável em todo país. No âmbito dos esforços de mitigação da propagação da Covid-19 em Moçambique, o Ministério das Obras Públicas, Habitação e Recursos Hídricos (MOPHRH) garante disponibilidade de água potável em todos pontos do país, desde rurais aos urbanos, tendo em conta que a água é essencial para a higienização no combate a esta pandemia."
+    },
+    {
+      "id": "20",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "12 de Abril de 2020",
+      "resumo": "Confirmada vigésima primeira pessoa infectada pelo Coronavírus. Subiu para 21 o número de casos positivos de Covid-19 em Moçambique, após ter dado positivo o teste feito a um cidadão de origem australiana, funcionário da empresa Total, que esteve em contacto com pessoas infectadas nos estaleiros de Afungi, na província de Cabo Delgado."
+    },
+          {
+      "id": "19",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "11 de Abril de 2020",
+      "resumo": "MAEFP garante cumprimento das medidas de prevenção da COVID-19. O ministério de Administração Estatal e Função Pública (MAEFP) garante que todas as instituições públicas estão a observar as medidas de prevenção e contenção da propagação do novo coronavírus, nomeadamente o distanciamento social, colocação de baldes de água com sabão, cinza ou detergentes para lavagem das mãos ou álcool desinfectante à entrada dos edifícios."
+    },
     {
       "id": "18",
       "pais": "Moçambique",
