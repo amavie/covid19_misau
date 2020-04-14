@@ -1,5 +1,13 @@
 {
   "nodes": [
+     {
+      "id": "22",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "13 de Abril de 2020",
+      "resumo": "INGC garante apoio a 500 mil pessoas carenciadas e afectadas pela COVID-19.O Instituto Nacional de Gestão de Calamidades (INGC) garante que dispõe de mantimentos para apoio a cerca de 500 mil pessoas carenciadas que possam ficar afectadas pela pandemia da COVI-19. Segundo explicou o director de Prevenção e Mitigação do INGC, César Tembe, falando no habitual briefing de actualização de dados sobre a COVID-19, das 500 mil pessoas, 300 mil serão apoiados directamente pelo Programa Mundial de Alimentação e os outros 200 mil através do INGC. Este apoio poderá ser canalisado ao Ministério da Saúde para alimentar doentes que possam ficar internados por conta da pandemia, que já infectou 21 pessoas no país."
+    },
     {
       "id": "21",
       "pais": "Moçambique",
