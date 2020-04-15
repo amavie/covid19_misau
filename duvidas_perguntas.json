@@ -1,190 +1,69 @@
 {
   "nodes": [
-         {
-      "id": "23",
-      "pais": "tyestuas",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "15 de Abril de 2020",
-      "resumo": "Casos positivos da COVID-19 sobem para 29 em Moçambique. Moçambique registou hoje, 15 de Abril, mais um caso de infecção pela COVID-19 após a testagem, nas últimas 24 horas, de 31 amostras de casos suspeitos, das quais 30 revelaram-se negativos e 1 foi positivo para o coronavírus. Assim, actualmente, o nosso país conta com 29 casos positivos, sendo 21 de transmissão local e 8 importados."
-    },
-     {
-      "id": "22",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "13 de Abril de 2020",
-      "resumo": "INGC garante apoio a 500 mil pessoas carenciadas e afectadas pela COVID-19.O Instituto Nacional de Gestão de Calamidades (INGC) garante que dispõe de mantimentos para apoio a cerca de 500 mil pessoas carenciadas que possam ficar afectadas pela pandemia da COVI-19. Segundo explicou o director de Prevenção e Mitigação do INGC, César Tembe, falando no habitual briefing de actualização de dados sobre a COVID-19, das 500 mil pessoas, 300 mil serão apoiados directamente pelo Programa Mundial de Alimentação e os outros 200 mil através do INGC. Este apoio poderá ser canalisado ao Ministério da Saúde para alimentar doentes que possam ficar internados por conta da pandemia, que já infectou 21 pessoas no país."
-    },
     {
-      "id": "21",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "12 de Abril de 2020",
-      "resumo": "Garantido abastecimento contínuo de água potável em todo país. No âmbito dos esforços de mitigação da propagação da Covid-19 em Moçambique, o Ministério das Obras Públicas, Habitação e Recursos Hídricos (MOPHRH) garante disponibilidade de água potável em todos pontos do país, desde rurais aos urbanos, tendo em conta que a água é essencial para a higienização no combate a esta pandemia."
-    },
-    {
-      "id": "20",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "12 de Abril de 2020",
-      "resumo": "Confirmada vigésima primeira pessoa infectada pelo Coronavírus. Subiu para 21 o número de casos positivos de Covid-19 em Moçambique, após ter dado positivo o teste feito a um cidadão de origem australiana, funcionário da empresa Total, que esteve em contacto com pessoas infectadas nos estaleiros de Afungi, na província de Cabo Delgado."
-    },
-          {
-      "id": "19",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "11 de Abril de 2020",
-      "resumo": "MAEFP garante cumprimento das medidas de prevenção da COVID-19. O ministério de Administração Estatal e Função Pública (MAEFP) garante que todas as instituições públicas estão a observar as medidas de prevenção e contenção da propagação do novo coronavírus, nomeadamente o distanciamento social, colocação de baldes de água com sabão, cinza ou detergentes para lavagem das mãos ou álcool desinfectante à entrada dos edifícios."
-    },
-    {
-      "id": "18",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "10 de Abril de 2020",
-      "resumo": "Subiu para 20 o número de casos de contaminação pelo Coronavírus em Moçambique, depois de nas últimas 24 horas terem sido testadas 54 amostras de casos suspeitos, das quais três foram positivos. Os três casos positivos são resultantes dos exames colhidos a onze contactos do paciente número 10, detectado semana passada e que esteve num acampamento de empresa petrolífera Total, na zona de Afungi, em Cabo Delgado.."
-    },
-    {
-      "id": "17",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "10 de Abril de 2020",
-      "resumo": "O Inspector-geral Trabalho, Joaquim Siúta, disse esta sexta-feira, durante a conferência de imprensa de actualização de dados do novo coronavírus em Moçambique, que as empresas mineradoras sul-africanas garantem o pagamento dos salários de todos os trabalhadores durante o período que vigorar o “lock down”, incluindo os moçambicanos que regressaram ao país por conta da situação."
-    },
-          {
-      "id": "16",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "09 de Abril de 2020",
-      "resumo": "O país continua com 17 casos confirmados de pessoas infectados pela doença provocada pelo novo coronavírus, depois de ontem, quarta-feira, ter aumentado em sete novos casos, seis dos quais resultantes do contacto do caso 10, notificado há uma semana, de um funcionário da companhia petrolífera Total, com um acampamento em Afungi, em Cabo Delgado."
-    },
-      {
-      "id": "15",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "09 de Abril de 2020",
-      "resumo": "MISAU recebe apoio do Banco Letshego para o combate à COVID-19. Trata-se de um apoio monetário no valor de 1.800.000,00 Meticais (um milhão, oitocentos mil meticais), cujo cheque foi entregue na tarde desta quarta-feira, 08 de Abril, em cerimónia havida nas instalações do Ministério da Saúde (MISAU)."
-    },  
-    {
-      "id": "14",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "08 de Abril de 2020",
-      "resumo": " A pandemia da COVID-19 provocou o aumento do volume das chamadas telefónicas à linha Alô Vida no mês de Março deste ano, ao registar mais de 6 mil solicitações, contra 2 mil de Fevereiro.A linha AlôVida é um serviço de saúde, cujo objectivo é prover informação e esclarecer dúvidas sobre matérias de saúde, através de chamadas telefónicas ou mensagens."
-    },        
-        {
-      "id": "1",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "07 de Abril de 2020",
-      "resumo": " As autoridades nacionais da saúde anunciaram ontem que o Instituto Nacional de Saúde (INS) testou, nas ultimas 24 horas, 57 suspeitos de terem sido infectados palo novo coronavirus, tendo todos tido resultados negativos."
-    },
-      {
-      "id": "2",
-      "pais": "Portugal",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "07 de Abril de 2020",
-      "resumo": "A ministra da Saúde anunciou hoje, em entrevista à RTP1, que a Direção-geral da Saúde pediu um parecer sobre o uso generalizado de máscaras para evitar a propagação da covid-19, tendo sido aconselhada a equacionar a medida."
-    },
-      {
-      "id": "3",
-      "pais": "Inglaterra",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "06 de Abril de 2020",
-      "resumo": "O primeiro-ministro britânico, infetado com Covid-19, deu entrada num hospital devido à persistência de sintomas, incluindo alta temperatura. De acordo com um porta-voz, Boris Johnson foi admitido para testes a “conselho do seu médico”."
-    },
-    {
-      "id": "4",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "06 de Abril de 2020",
-      "resumo": "Um total de 57 indivíduos que estava em quarentena domiciliária e acompanhamento médico, por terem mantido contacto com alguns dos casos positivos da COVID-19 no país, recebeu alta, depois de ter cumprido todas as recomendações e não ter desenvolvido nenhuma sintomatologia relacionada com a pandemia."
-    },
-      {
-      "id": "5",
-      "pais": "Burundi",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "06 de Abril de 2020",
-      "resumo": "O Burundi decidiu prosseguir com os seus campeonatos de futebol das primeira e segunda divisões. O ministro da saúde, Thaddée Ndikumana, que esta semana anunciou os três primeiros casos positivos no país, recomendou a continuação dos campeonatos, a par de medidas preventivas, como lavar as mãos e medir a temperatura dos espetadores antes da sua entrada nos estádios."
-    },
-  {
-      "id": "6",
-      "pais": "Moçambique",
-      "provincia": "",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "05 de Abril de 2020",
-      "resumo": "Moçambique continua com dez (10) casos confirmados de pessoas infectados pelo novo Coronavírus – COVID-19, dos quais um está recuperado, segundo informação apresentada este domingo, 05 de Abril, pela Directora Nacional de Saúde Pública, Rosa Marlene."
-    },
-      {
-      "id": "7",
-      "pais": "Portugal",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "05 de Abril de 2020",
-      "resumo": "Os últimos dados da DGS indicam que Portugal registou até agora 295 vítimas mortais (266 ontem). Representa um aumento de 29 vítimas mortais nas últimas 24 horas, ou seja, mais 11 por cento. A maior parte das vítimas mortais são pessoas com 80 ou mais anos."
-    },
-      {
-      "id": "8",
-      "pais": "Alemanha",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "05 de Abril de 2020",
-      "resumo": "A Alemanha regista 91.714 casos de covid-19, mais 5.936 que na véspera, e 1.342 vítimas mortais, um crescimento de 184, o que significa que o aumento do  número de novos infetados abrandou, mas o de mortes subiu."
-    },
-    {
-      "id": "9",
-      "pais": "Africa",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "05 de Abril de 2020",
-      "resumo": "O número de mortes provocadas pela Covid-19 em África subiu para 360 num universo de mais de 8.500 casos registados em 50 países, de acordo com a mais recente atualização dos dados da pandemia naquele continente."
-    },
-      {
-      "id": "10",
-      "pais": "China",
-      "provincia": "",
-      "fonte": "rtp.pt",
-      "publicado": "05 de Abril de 2020",
-      "resumo": "A China Continental registou 30 novos casos de Covid-19, mais 19 do que os anunciados no dia anterior. 25 desses casos são relativos a pessoas de fora que entraram no país."
+      "id": "12",
+      "titulo": "O que é Coronavírus?",
+      "resumo": "Os coronavírus são uma grande família de vírus que podem causar doenças em animais ou seres humanos.  Vários coronavírus são conhecidos por causarem infecções respiratórias em seres humanos, que variam de constipação normal a doenças mais graves, como a Síndrome Respiratória do Oriente Médio (MERS) e a Síndrome Respiratória Aguda Grave (SARS). O coronavírus descoberto muito recentemente causa uma doença chamada de coronavírus COVID-19."
     },
       {
       "id": "11",
-      "pais": "Moçambique",
-      "provincia": "Maputo",
-      "fonte": "covid19.ins.gov.mz",
-      "publicado": "04 de Abril de 2020",
-      "resumo": "Foi com alguma satisfação que Rosa Marlene, Directora Nacional de Saúde Pública anunciou o primeiro caso recuperado de Covid-19 no país, informação tornada pública este sabado à margem da Conferência de Imprensa de actualização da informação sobre a doença em Moçambique e no mundo."
+      "titulo": "O que é COVID-19?",
+      "resumo": "COVID-19 é a doença infecciosa causada pelo coronavírus descoberto muito recentemente. Este novo vírus e doença eram desconhecidos até o começo de surto em Wuhan, China, em Dezembro de 2019."
+    },
+    {
+      "id": "10",
+      "titulo": "Quais são os sitomas do COVID-19?",
+      "resumo": "Os sintomas mais comuns do COVID-19 são febre, cansaço, tosse seca e dificuldade respiratória. Alguns pacientes podem sentir dores, congestão nasal, prurido no nariz, garganta inflamada ou diarreia. Estes sintomas geralmente são leves e começam gradualmente. Algumas pessoas são infectadas, mas não apresentam sintomas e sentem-se bem. A maioria das pessoas (cerca de 80%) recupera-se da doença sem precisar de tratamento de suporte. Cerca de 1 em cada 6 pessoas infectadas pelo COVID-19 fica gravemente doente e desenvolve dificuldades respiratórias. As pessoas idosas e pessoas que têm problemas médicos subjacentes, como pressão alta, problemas cardíacos ou diabetes, têm maior probabilidade de desenvolver doença grave. Cerca de 3.4% das pessoas com a doença morreram. Pessoas com febre, tosse e dificuldades respiratórias devem procurar cuidados médicos."
     },
       {
-      "id": "12",
-      "pais": "Moçambique",
-      "provincia": "Maputo",
-      "fonte": "misau.gov.mz",
-      "publicado": "03 de Abril de 2020",
-      "resumo": "Pelo segundo dia consecutivo o número de casos confirmados de contaminação com o Coronavírus (COVID-19) no país, mantem-se o mesmo, ou seja, dez (10)."
+      "id": "9",
+     "titulo": "Como é que se espelha o COVID-19?",
+      "resumo": "As pessoas podem contrair o COVID-19 de outras pessoas infectadas pelo vírus. A doença pode espalhar-se de pessoa para pessoa através de pequenas gotículas que se espalham saindo do nariz ou da boca quando uma pessoa com COVID-19 tosse, expira, fala ou canta. Essas gotículas pousam em objectos e superfície em volta da pessoa, então, quando outras pessoas tocam nesses objectos ou superfície e depois tocarem nos olhos, no nariz ou na boca aí contraem contrair COVID-19. As pessoas também podem contrair o COVID-19 se inspirarem as gotículas que saem quando uma pessoa com COVID-19 tosse, expira, fala ou canta. Este é o motivo por que é importante ficar a mais de 1 metro (3 pés) de uma pessoa doente.
+A OMS está a avaliar pesquisas em curso sobre as formas como o COVID-19 é espalhado e continuará a partilhar descobertas actualizadas."
+    },
+  {
+      "id": "8",
+      "titulo": "É possível que o vírus causador do COVID-19 seja transmitido pelo ar?",
+      "resumo": "Estudos até agora sugerem que o vírus que causa o COVID-19 é transmitido pelo ar  através de gotículas quando uma pessoa infectada fala, tosse ou espirra. Ver a resposta anterior em “Como que é se espalha o COVID-19?” "
+    },
+      {
+      "id": "7",
+      "titulo": "Qual é a probabilidade de eu contrair o COVID-19?",
+      "resumo": "O risco depende de onde você vive ou de onde viajou recentemente. O risco de infecção é maior em áreas onde várias pessoas foram diagnosticadas com COVID-19. Mais de 95% de todos os casos do COVID-19 estão a ocorrer na China, sendo a maioria dos casos na província de Hubei. Para as pessoas na maioria das outras partes do mundo, actualmente o risco de contrair o COVID-19 é baixo; no entanto, é importante estar ciente da situação e dos esforços de prontidão em sua área. A OMS está a trabalhar com as autoridades de saúde da China e do mundo para monitorar e responder aos surtos do COVID-19."
+    },
+      {
+      "id": "6",
+      "titulo": "Quem está em risco de desenvolver doenças graves?",
+      "resumo": "Embora estejamos ainda a estudar como o COVID-2019 afecta os seres humanos, sabe-se que pessoas idosas e pessoas com outras doenças como pressão alta, doenças cardíacas ou diabetes tem maior risco de desenvolver doença grave do que as outras pessoas."
+    },
+    {
+      "id": "5",
+      "titulo": "São eficazes os antibióticos na prevenção ou tratamento do COVID-19?",
+      "resumo": "Não. Os antibióticos não funcionam contra o vírus, mas apenas contra infecções bacterianas. O COVID-19 é causado por um vírus, por isso os antibióticos não funcionam. Antibióticos não devem ser usados como um meio de prevenção ou tratamento de COVID-19. Eles devem ser usados apenas mediante prescrição de um médico para tratar uma infecção bacteriana."
+    },
+      {
+      "id": "4",
+      "titulo": "Existe uma vacina, medicamento ou tratamento para COVID-19?",
+      "resumo": "Ainda não. Até agora, não existe vacina nem medicamento antiviral específico para prevenir ou tratar o COVID-2019. Contudo, as pessoas afectadas devem receber cuidados para aliviar os sintomas. Pessoas com doença grave devem ser hospitalizadas. A maioria dos doentes com COVID-19 recupera-se com medidas básicas  de apoio. Possíveis vacinas e alguns tratamentos medicamentosos específicos estão a ser investigados. Estão a ser testados através de ensaios clínicos. A OMS está a coordenar esforços para desenvolver vacinas e medicamentos para prevenir e tratar o COVID-19. As formas mais eficazes de proteger a si e aos outros contra o COVID-19 são: lavar frequentemente as mãos, cobrir a boca e o nariz com a curva do cotovelo ou lenço  ao tossir ou expirar, manter uma distância de pelo menos 1 metro (3 pés) das pessoas. Para mais informações, vide as medidas básicas de protecção contra o novo coronavírus."
+    },
+      {
+      "id": "3",
+     "titulo": "Quanto tempo leva a incubação do COVID-19?",
+      "resumo": "O “período de incubação” significa o tempo entre a infecção pelo vírus e o início dos sintomas da doença. A maioria das estimativas do período de incubação do COVID-19 varia de 2 a 14 dias, geralmente cerca de cinco dias. Estas estimativas serão actualizadas à medida que mais dados estiverem disponíveis."
     },
    
     {
-      "id": "13",
-      "pais": "Moçambique",
-      "provincia": "Maputo",
-      "fonte": "misau.gov.mz",
-      "publicado": "02 de Abril de 2020",
-      "resumo": "A Directora Nacional de Saúde Pública, Dra. Rosa Marlene, revelou na habitual conferência de imprensa que não houve alteração no número de casos, continuando a serem dez, cifra que o país atingiu na Quinta-feira, 02 de Abril."
-    }
+      "id": "2",
+      "titulo": "Quanto tempo o vírus sobrevive na superfície?",
+      "resumo": "Não se sabe ao certo quanto tempo o vírus que causa o COVID-19 sobrevive na superfície, mas parece comportar-se como outros coronavírus. Estudos sugerem que os coronavírus (incluindo informações preliminares sobre o vírus COVID-19) podem persistir na superfície por algumas horas ou até vários dias. Isto pode variar em diferentes condições (por exemplo, tipo de superfície, temperatura ou humidade do ambiente). Se achar que uma superfície pode estar infectada, limpe-a com um desinfectante simples para matar o vírus e proteger a si e aos outros. Limpe as mãos com um álcool em gel ou lave-as com água e sabão. Evite tocar nos olhos, na boca ou no nariz."
+    },
+   
+    {
+      "id": "1",
+      "titulo": "Existe algo que eu não devia fazer?",
+      "resumo": "As seguintes medidas NÃO são eficazes contra o COVID-2019 e podem ser prejudiciais: Fumar, Tomar remédios tradicionais à base de plantas, Usar várias máscaras, Tomar automedicação como antibióticos. De qualquer forma, se tiver febre, tosse e dificuldades respiratórias, procure cuidados médicos com antecedência para reduzir o risco de desenvolver uma infecção mais grave e partilhe seu histórico de viagens recente com o seu médico."
+    }   
+    
     
     ],
 
