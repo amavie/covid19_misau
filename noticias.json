@@ -1,5 +1,13 @@
 {
   "nodes": [
+         {
+      "id": "23",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "15 de Abril de 2020",
+      "resumo": "Casos positivos da COVID-19 sobem para 29 em Moçambique. Moçambique registou hoje, 15 de Abril, mais um caso de infecção pela COVID-19 após a testagem, nas últimas 24 horas, de 31 amostras de casos suspeitos, das quais 30 revelaram-se negativos e 1 foi positivo para o coronavírus. Assim, actualmente, o nosso país conta com 29 casos positivos, sendo 21 de transmissão local e 8 importados."
+    },
      {
       "id": "22",
       "pais": "Moçambique",
