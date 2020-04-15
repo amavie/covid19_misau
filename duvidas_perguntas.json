@@ -29,9 +29,7 @@ A OMS está a avaliar pesquisas em curso sobre as formas como o COVID-19 é espa
       {
       "id": "7",
       "titulo": "Qual é a probabilidade de eu contrair o COVID-19?",
-      "resumo": "O risco depende de onde você vive ou de onde viajou recentemente. O risco de infecção é maior em áreas onde várias pessoas foram diagnosticadas com COVID-19. Mais de 95% de todos os casos do COVID-19 estão a ocorrer na China, sendo a maioria dos casos na província de Hubei. Para as pessoas na maioria das outras partes do mundo, actualmente o risco de contrair o COVID-19 é baixo; no entanto, é importante estar ciente da situação e dos esforços de prontidão em sua área.
-A OMS está a trabalhar com as autoridades de saúde da China e do mundo para monitorar e responder aos surtos do COVID-19.
-"
+      "resumo": "O risco depende de onde você vive ou de onde viajou recentemente. O risco de infecção é maior em áreas onde várias pessoas foram diagnosticadas com COVID-19. Mais de 95% de todos os casos do COVID-19 estão a ocorrer na China, sendo a maioria dos casos na província de Hubei. Para as pessoas na maioria das outras partes do mundo, actualmente o risco de contrair o COVID-19 é baixo; no entanto, é importante estar ciente da situação e dos esforços de prontidão em sua área. A OMS está a trabalhar com as autoridades de saúde da China e do mundo para monitorar e responder aos surtos do COVID-19."
     },
       {
       "id": "6",
@@ -46,30 +44,24 @@ A OMS está a trabalhar com as autoridades de saúde da China e do mundo para mo
       {
       "id": "4",
       "titulo": "Existe uma vacina, medicamento ou tratamento para COVID-19?",
-      "resumo": "Ainda não. Até agora, não existe vacina nem medicamento antiviral específico para prevenir ou tratar o COVID-2019. Contudo, as pessoas afectadas devem receber cuidados para aliviar os sintomas. Pessoas com doença grave devem ser hospitalizadas. A maioria dos doentes com COVID-19 recupera-se com medidas básicas  de apoio.
-Possíveis vacinas e alguns tratamentos medicamentosos específicos estão a ser investigados. Estão a ser testados através de ensaios clínicos. A OMS está a coordenar esforços para desenvolver vacinas e medicamentos para prevenir e tratar o COVID-19.
-As formas mais eficazes de proteger a si e aos outros contra o COVID-19 são: lavar frequentemente as mãos, cobrir a boca e o nariz com a curva do cotovelo ou lenço  ao tossir ou expirar, manter uma distância de pelo menos 1 metro (3 pés) das pessoas. Para mais informações, vide as medidas básicas de protecção contra o novo coronavírus."
+      "resumo": "Ainda não. Até agora, não existe vacina nem medicamento antiviral específico para prevenir ou tratar o COVID-2019. Contudo, as pessoas afectadas devem receber cuidados para aliviar os sintomas. Pessoas com doença grave devem ser hospitalizadas. A maioria dos doentes com COVID-19 recupera-se com medidas básicas  de apoio. Possíveis vacinas e alguns tratamentos medicamentosos específicos estão a ser investigados. Estão a ser testados através de ensaios clínicos. A OMS está a coordenar esforços para desenvolver vacinas e medicamentos para prevenir e tratar o COVID-19. As formas mais eficazes de proteger a si e aos outros contra o COVID-19 são: lavar frequentemente as mãos, cobrir a boca e o nariz com a curva do cotovelo ou lenço  ao tossir ou expirar, manter uma distância de pelo menos 1 metro (3 pés) das pessoas. Para mais informações, vide as medidas básicas de protecção contra o novo coronavírus."
     },
       {
       "id": "3",
-     "titulo": Quanto tempo leva a incubação do COVID-19?",
+     "titulo": "Quanto tempo leva a incubação do COVID-19?",
       "resumo": "O “período de incubação” significa o tempo entre a infecção pelo vírus e o início dos sintomas da doença. A maioria das estimativas do período de incubação do COVID-19 varia de 2 a 14 dias, geralmente cerca de cinco dias. Estas estimativas serão actualizadas à medida que mais dados estiverem disponíveis."
     },
    
     {
       "id": "2",
       "titulo": "Quanto tempo o vírus sobrevive na superfície?",
-      "resumo": "Não se sabe ao certo quanto tempo o vírus que causa o COVID-19 sobrevive na superfície, mas parece comportar-se como outros coronavírus. Estudos sugerem que os coronavírus (incluindo informações preliminares sobre o vírus COVID-19) podem persistir na superfície por algumas horas ou até vários dias. Isto pode variar em diferentes condições (por exemplo, tipo de superfície, temperatura ou humidade do ambiente).
-Se achar que uma superfície pode estar infectada, limpe-a com um desinfectante simples para matar o vírus e proteger a si e aos outros. Limpe as mãos com um álcool em gel ou lave-as com água e sabão. Evite tocar nos olhos, na boca ou no nariz."
-    }
- ,
+      "resumo": "Não se sabe ao certo quanto tempo o vírus que causa o COVID-19 sobrevive na superfície, mas parece comportar-se como outros coronavírus. Estudos sugerem que os coronavírus (incluindo informações preliminares sobre o vírus COVID-19) podem persistir na superfície por algumas horas ou até vários dias. Isto pode variar em diferentes condições (por exemplo, tipo de superfície, temperatura ou humidade do ambiente). Se achar que uma superfície pode estar infectada, limpe-a com um desinfectante simples para matar o vírus e proteger a si e aos outros. Limpe as mãos com um álcool em gel ou lave-as com água e sabão. Evite tocar nos olhos, na boca ou no nariz."
+    },
    
     {
       "id": "1",
       "titulo": "Existe algo que eu não devia fazer?",
-      "resumo": "As seguintes medidas NÃO são eficazes contra o COVID-2019 e podem ser prejudiciais: Fumar, Tomar remédios tradicionais à base de plantas, Usar várias máscaras, Tomar automedicação como antibióticos.
-
-De qualquer forma, se tiver febre, tosse e dificuldades respiratórias, procure cuidados médicos com antecedência para reduzir o risco de desenvolver uma infecção mais grave e partilhe seu histórico de viagens recente com o seu médico."
+      "resumo": "As seguintes medidas NÃO são eficazes contra o COVID-2019 e podem ser prejudiciais: Fumar, Tomar remédios tradicionais à base de plantas, Usar várias máscaras, Tomar automedicação como antibióticos. De qualquer forma, se tiver febre, tosse e dificuldades respiratórias, procure cuidados médicos com antecedência para reduzir o risco de desenvolver uma infecção mais grave e partilhe seu histórico de viagens recente com o seu médico."
     }   
     
     
