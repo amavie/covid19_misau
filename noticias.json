@@ -1,5 +1,29 @@
 {
   "nodes": [
+             {
+      "id": "26",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "17 de Abril de 2020",
+      "resumo": "Sobe para 34 o número de casos positivos da COVID-19 no país.As autoridades nacionais da saúde acabam de anunciar em conferência de imprensa havida na tarde de hoje, 17 de Abril, que o país testou através do Instituto Nacional de Saúde (INS) 898 casos suspeitos da COVID-19, sendo 43 nas últimas 24 horas, dos quais 40 revelaram-se negativos e 3 positivos para novo coronavírus. Assim, Moçambique conta com um total de 34 casos positivos, sendo 26 de transmissão local e 8 importados."
+    },
+     {
+      "id": "25",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "16 de Abril de 2020",
+      "resumo": "Mais dois casos de COVID-19 notificados no país. Subiu para 31 o número de casos de infecção pelo novo coronavírus em Moçambique, com a confirmação hoje de mais dois casos, ambos relacionados com a investigação da teia originada nos estaleiros da Total em Afungi, província de Cabo Delgado. Trata-se de dois indivíduos, um de sexo masculino, com nacionalidade sul-africana, e outro feminino, de origem italiana, ambos trabalhadores da multinacional Total e que saíram de Afungi para Maputo na primeira semana de Abril."
+    },
+    {
+      "id": "24",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "16 de Abril de 2020",
+      "resumo": "MISAU recebe 3 mil máscaras de protecção. O Ministério da Saúde (MISAU) continua a receber apoio de diversas organizações e instituições públicas e privadas em resposta à pandemia da Covid-19. Desta vez, o gesto veio da Sociedade de Desenvolvimento do Porto de Maputo (MPDC), que entregou, na manhã desta quinta-feira, 3 mil unidades de máscaras N95. Aliás, este donativo, segundo a directora da companhia, Kristina Abudo, é para os profissionais de saúde, que estão na linha da frente do combate à pandemia."
+    },
          {
       "id": "23",
       "pais": "Moçambique",
