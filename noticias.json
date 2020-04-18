@@ -1,5 +1,13 @@
 {
   "nodes": [
+     {
+      "id": "27",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "17 de Abril de 2020",
+      "resumo": "Trinta e um moçambicanos solicitam repatriamento. Um total de 31 moçambicanos residentes no estrangeiro, que foram encontrados pelo bloqueio no âmbito das medidas impostas para a prevenção da COVID-19 solicitou repatriamento ao governo. Trata-se de dez cidadãos nacionais em Angola e 21 em Portugal, segundo explicou o porta-voz do Ministério dos Negócios Estrangeiros, Geraldo Saranga."
+    },
              {
       "id": "26",
       "pais": "Moçambique",
