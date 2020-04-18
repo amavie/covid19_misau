@@ -1,5 +1,13 @@
 {
   "nodes": [
+         {
+      "id": "28",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "18 de Abril de 2020",
+      "resumo": "Moçambique regista mais um caso da COVID-19. A Directora Nacional de Saúde Pública, Rosa Marlene, anunciou na tarde deste sábado, em conferência de imprensa, que o país registou nas últimas 24 horas, um caso de infecção pelo novo Coronavírus, elevando para 35 o número de pessoas infectadas no país. Segundo Rosa Marlene, o laboratório do Instituto Nacional de Saúde (INS) testou nas últimas 24 horas, 54 casos suspeitos de infecção pelo coronavírus dos quais 1 foi positivo. Neste momento, Moçambique conta com 35 casos positivos, sendo 27 de transmissão local e 8 importados. De referir que o país conta agora com 4 casos recuperados."
+    },
      {
       "id": "27",
       "pais": "Moçambique",
