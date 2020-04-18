@@ -1,5 +1,5 @@
 {"confirmed":{"value":35,"detail":"https://github.com/amavie/covid19_misau/confirmed"},
-"recovered":{"value":2,"detail":"https://github.com/amavie/covid19_misau/recovered"},
+"recovered":{"value":4,"detail":"https://github.com/amavie/covid19_misau/recovered"},
 "deaths":{"value":0,"detail":"https://github.com/amavie/covid19_misau/deaths"},
 "tracked":{"value":470942,"detail":"https://github.com/amavie/covid19_misau/tracked"},
 "tested":{"value":952,"detail":"https://github.com/amavie/covid19_misau/tested"},
