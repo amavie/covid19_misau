@@ -1,5 +1,21 @@
 {
   "nodes": [
+    {
+      "id": "30",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "19 de Abril de 2020",
+      "resumo": "Moçambique regista mais quatro casos positivos da COVID-19. O país registou, nas últimas 24 horas, mais quatro casos de infecção pelo novo Coronavírus, passando a contar com um cumulativo de 39 casos positivos, sendo 31 locais e 8 importados. Os quatro casos saem de um lote de 85 amostras suspeitas testadas nas últimas 24 horas. De referir que Moçambique conta actualmente com 8 casos recuperados de COVID-19."
+    },
+     {
+      "id": "29",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "18 de Abril de 2020",
+      "resumo": "INAE detecta álcool desinfectante falso no mercado. A Inspecção Nacional de Actividades Económicas (INAE) deu a conhecer este sábado, em Conferência de Imprensa de actualização de dados sobre a Covid-19, que mandou encerrar 2 mil estabelecimentos comerciais, dos mais de 8 mil inspeccionados, entre restaurantes, bares e ginásios. Segundo Tomás Timba, inspector da INAE, entre as irregularidades detectadas e obrigaram a medida, está “o incumprimento da norma do distanciamento social e a inobservância do horário de funcionamento”."
+    },
          {
       "id": "28",
       "pais": "Moçambique",
