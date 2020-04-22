@@ -1,5 +1,29 @@
 {
   "nodes": [
+     {
+      "id": "33",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "22 de Abril de 2020",
+      "resumo": "Sobe de 39 para 41 o número de pessoas infectadas pelo novo Coronavírus. Mais dois casos de infecção pelo novo Coronavírus foram anunciados hoje, quarta-feira, pela Directora Nacional de Saúde Pública, Rosa Marlene em conferência de imprensa. Segundo Rosa Marlene, foram testados 1 247 casos suspeitos, dos quais 84 nas últimas 24 horas. Assim, neste momento, o nosso País tem 41 casos positivos, sendo 33 de transmissão local e 8 importados. Os dois casos de infecção mantiveram contacto com indivíduos positivos em Afungi, Província de Cabo Delgado. "
+    },
+     {
+      "id": "32",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "21 de Abril de 2020",
+      "resumo": "HCM monta túneis de desinfecção. No âmbito dos esforços de prevenção e combate à propagação da COVID-19, o Hospital Central de Maputo montou nas duas principais entradas dois túneis de desinfecção dos seus colaboradores e utentes. Trata-se de dois recursos oferecidos pelo Hospital Privado de Maputo que com recurso a vários produtos como cloro e álcool, a pessoa é submetida a um banho leve que permite eliminar todas as bactérias e vírus que possa carregar."
+    },
+         {
+      "id": "31",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "21 de Abril de 2020",
+      "resumo": "Mantém-se os casos confirmados da COVID-19 no país. Moçambique continua com um cumulativo de 39 casos confirmados de pessoas infectadas pelo novo Coronavírus, dos quais oito estão recuperadas, segundo informação apresentada esta terça-feira, 21 de Abril, pela directora nacional de Saúde Pública, Rosa Marlene. Falando no habitual briefing de Imprensa, a responsável disse aos jornalistas que o país testou, através do Instituto Nacional de Saúde (INS), um total de 1.163 casos suspeitos, dos quais 53 nas últimas 24 horas, sendo que todos revelaram-se negativos para a COVID-19."
+    },
     {
       "id": "30",
       "pais": "Moçambique",
