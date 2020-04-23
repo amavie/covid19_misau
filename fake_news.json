@@ -11,7 +11,35 @@
       "titulo": "Beber chá de alho",
       "resumo": "A Organização Mundial da Saúde (OMS) afirma que o alho é um alimento que tem algumas propriedades antimicrobianas. Mas nada prova, no quadro da epidemia atual, que o consumo de alho proteja as pessoas contra o coronavírus. O mesmo vale para o mel e o própolis, sugeridos por internautas em outras publicações. Recomendado no inverno devido às suas virtudes nutritivas, eles não garantem uma proteção contra a Covid-19."
     },  
+         {
+      "id": "3",
+      "titulo": "Ingerir bebidas quentes",
+      "resumo": "Ingerir bebidas quentes não terá nenhum efeito benéfico contra a Covid-19, já que é impossível elevar a temperatura do corpo a 56°C durante ao menos vinte minutos ou 65°C durante ao menos cinco minutos. As pessoas que bebem mais líquidos quentes para se proteger da Covid-19 apenas irão mais ao banheiro. E terão que lavar as mãos com mais frequência."
+    },  
     
+     {
+      "id": "4",
+      "titulo": "Beber água a cada 15 minutos",
+      "resumo": "Essa fake news também foi desmentida pela OMS. Enquanto se hidratar bebendo água é importante para a saúde, isso não previne a contaminação por coronavírus, diz a organização em seu Twitter. Se você tiver febre, tosse e dificuldade para respirar procure ajuda médica rapidamente, reitera."
+    },  
+    
+     {
+      "id": "5",
+      "titulo": "Vacina contra a gripe ",
+      "resumo": "Existem diversas famílias de vírus como a do coronavírus, à qual pertence a Covid-19. A vacina específica contra a gripe não pode, desta forma, evitar a contaminação ao novo coronavírus. Em entrevista ao jornal francês SudOuest, o infectologista Arnaud Desclaux, do Centro Hospitalar de Bordeaux, lembra que a Covid-19 não é uma gripe."
+    },  
+
+       {
+      "id": "6",
+      "titulo": "Vitamina D ou banho de sol",
+      "resumo": "Outra recomendação frequente nas redes é tomar banho de sol ou ingerir vitamina D para eliminar o coronavírus. Segundo publicações sem embasamento científico, o calor eliminaria a Covid-19. A informação é rebatida pelos especialistas e pela própria OMS. Eles lembram que o vírus é resistente à temperatura média do corpo – entre 36°,5°C e 37°C. A OMS salienta que a Covid-19 se espalhou em países tanto de clima quente como frio. Por isso, independentemente de onde você vive, é importante seguir as precauções."
+    }, 
+    
+    {
+      "id": "7",
+      "titulo": "Fazer inalações ou lavagens de nariz",
+      "resumo": "Para tratar o coronavírus, alguns internautas recomendam inalações ou lavar o nariz. Segundo eles, essas técnicas permitiriam reforçar o sistema imunitário ou se proteger do vírus. No entanto, o clínico-geral Richard Handschuh lembra que nem todos os infectados pela Covid-19 têm obstrução nasal. Neste caso, não seria uma boa ideia."
+    }  
      
     
     ],
