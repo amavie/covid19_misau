@@ -1,5 +1,29 @@
 {
   "nodes": [
+    {
+      "id": "36",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "24 de Abril de 2020",
+      "resumo": "País procura repatriar 75 moçambicanos retidos no estrangeiro. Um total de 75 cidadãos moçambicanos encontra-se retido em seis países devido ao bloqueio imposto pela pandemia do novo coronavírus. Os mesmos já contactaram as autoridades governamentais nacionais solicitando apoio para o regresso ao país. Daquele total, 27 encontram-se na Índia, 21 em Portugal, dez no Brasil, oito em Paquistão e igual número em Angola. Há também um moçambicano que se encontra em Sri Lanka. "
+    },
+     {
+      "id": "35",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "24 de Abril de 2020",
+      "resumo": "INS faz testagem massiva ao acampamento de Afungi. O Instituto Nacional de Saúde (INS) anunciou esta sexta-feira, 24 de Abril, que está a levar acabo uma testagem massiva aos funcionários da petrolífera multinacional Total que se encontram nos acampamentos de Afungi, distrito de Palma, província de Cabo Delgado. O objectivo, segundo explicou o director-geral adjunto do INS, Eduardo Samo Gudo, é conter e quebrar a cadeia de propagação e infecção pelo novo coronavírus naquele ponto, que neste momento concentra a maior parte dos casos positivos e confirmados em laboratório no país."
+    },
+         {
+      "id": "34",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "24 de Abril de 2020",
+      "resumo": "Número de Casos de Covid-19 sobe para 65 no país. Moçambique registou mais 19 novos casos de infecção pelo novo Coronavírus, passando a ter um cumulativo de 65 casos positivos confirmados em laboratório, dos quais nove são dados como recuperados. Segundo explicou a directora nacional de Saúde Pública no Ministério da Saúde, falando esta sexta-feira, 24 de Abril, na habitual Conferência de Imprensa de actualização de dados sobre a Covid-19, os 19 casos positivos saíram de um lote de 114 amostras testadas nas últimas 24 horas, sendo que outros 94 foram negativos."
+    },
      {
       "id": "33",
       "pais": "Moçambique",
