@@ -1,5 +1,13 @@
 {
   "nodes": [
+        {
+      "id": "39",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "27 de Abril de 2020",
+      "resumo": "O país continua com um cumulativo de 76 casos confirmados de indivíduos infectados pelo novo Coronavírus, dos quais nove estão recuperados, segundo informação apresentada esta segunda feira, 27 de Abril, pela Directora Nacional de Saúde Pública, Rosa Marlene. Falando em habitual Conferência de Imprensa de actualização de dados sobre a pandemia, a responsável referiu que o país testou, através do Instituto Nacional de Saúde (INS), um total de 1.688 casos suspeitos, dos quais 44 nas últimas 24 horas, sendo que todos revelaram-se negativos para a COVID-19."
+    },
     {
       "id": "38",
       "pais": "Moçambique",
