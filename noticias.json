@@ -1,6 +1,22 @@
 {
   "nodes": [
     {
+      "id": "38",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "26 de Abril de 2020",
+      "resumo": "Director-geral adjunto do INS reforça equipa de investigação em Cabo Delgado. Uma missão composta por quadros do Instituto Nacional de Saúde (INS) e da Direcção Nacional de Saúde Pública segue esta segunda-feira (27/04) para os acampamentos da multinacional Total em Afungi, distrito de Palma, província de Cabo Delgado, onde está concentrada a maior parte dos casos de infecção e propagação do novo coronavírus. Liderada pelo director-geral adjunto do INS, Eduardo Samo Gudo, o grupo vai reforçar a equipa de vigilância que se encontra naquele local a fazer testagem massiva dos funcionários da multinacional Total e outros contactos ligados aos vários casos positivos relacionados com a investigação em Cabo Delgado."
+    },
+     {
+      "id": "37",
+      "pais": "Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "26 de Abril de 2020",
+      "resumo": "País regista primeiro caso pediátrico de COVID-19. Moçambique registou nas últimas 24 horas mais seis casos de infecção pelo novo coronavírus, totalizando um cumulativo de 76 pessoas com a doença, dos quais nove são dados como recuperados. Dos seis novos casos, todos relacionados com a investigação nos acampamentos da petrolífera total, em Afungi, província de Cabo Delgado, destaque vai para o registo do primeiro caso positivo de um menor de idade no país. Trata-se de uma criança do sexo feminino, na faixa de 5 aos 14 anos de idade, que encontra-se em isolamento domiciliar na cidade de Pemba, província de Cabo Delgado."
+    },
+    {
       "id": "36",
       "pais": "Moçambique",
       "provincia": "",
