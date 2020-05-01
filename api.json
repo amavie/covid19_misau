@@ -1,8 +1,8 @@
 {"confirmed":{"value":76,"detail":"https://github.com/amavie/covid19_misau/confirmed"},
-"recovered":{"value":9,"detail":"https://github.com/amavie/covid19_misau/recovered"},
+"recovered":{"value":10,"detail":"https://github.com/amavie/covid19_misau/recovered"},
 "deaths":{"value":0,"detail":"https://github.com/amavie/covid19_misau/deaths"},
-"tracked":{"value":508924,"detail":"https://github.com/amavie/covid19_misau/tracked"},
-"tested":{"value":1688,"detail":"https://github.com/amavie/covid19_misau/tested"},
+"tracked":{"value":541685,"detail":"https://github.com/amavie/covid19_misau/tracked"},
+"tested":{"value":2076,"detail":"https://github.com/amavie/covid19_misau/tested"},
 "tested-":{"value":1612,"detail":"https://github.com/amavie/covid19_misau/tested-"},
-"quarantine":{"value":11407,"detail":"https://github.com/amavie/covid19_misau/quarantine"},
-"lastUpdate":"2020-04-27T16:10:00.000Z"}
+"quarantine":{"value":11916,"detail":"https://github.com/amavie/covid19_misau/quarantine"},
+"lastUpdate":"2020-05-01T14:10:00.000Z"}
