@@ -1,5 +1,69 @@
 {
   "nodes": [
+     {
+      "id": "47",
+      "pais": "Sobe para 81 o número de casos da COVID-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "05 de Maio de 2020",
+      "resumo": "O Ministério da Saúde (MISAU) anunciou, esta terça-feira, 05 de Maio, em conferência de imprensa, que mais um caso de infecção pelo novo coronavírus foi diagnosticado pelo laboratório do Instituto Nacional de Saúde (INS), nas últimas 24 horas, subindo para 81 o número de casos positivos em Moçambique."
+    },
+    {
+      "id": "46",
+      "pais": "Casos da Covid-19 mantêm-se em 80 no país",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "04 de Maio de 2020",
+      "resumo": "Moçambique não registou casos novos de infecção pelo Coronavírus nas últimas 24 horas, depois de terem sido testadas 132 amostras colhidas em diversas províncias e todas se revelado negativas para a Covid-19. Assim, segundo referiu a directora nacional de Saúde Pública, Rosa Marlene, na habitual Conferência de Imprensa de actualização de dados sobre a Covid-19 em Moçambique, o país mantém o total de 800 casos positivos de infecção por esta pandemia, sendo que 19 estão totalmente recuperados."
+    },
+     {
+      "id": "45",
+      "pais": "Casos da Covid-19 sobem para 80 no país",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "03 de Maio de 2020",
+      "resumo": "Moçambique registou mais um caso de infecção pelo novo Coronavírus, passando a ter um cumulativo de 80 casos positivos confirmados em laboratório, dos quais 72 são de transmissão local e 8 importados. Segundo informou a directora nacional de Saúde Pública, Rosa Marlene, na habitual conferência de Imprensa de actualização de dados sobre a Covid-19, o país testou até este domingo, 03 de Abril, 2466 casos suspeitos, dos quais 129 casos nas últimas 24 horas, sendo que 128 revelaram-se negativas e 1 positivo para o novo Coronavírus."
+    },
+    {
+      "id": "44",
+      "pais": "Sobe para 18 número de recuperados da COVID-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "02 de Maio de 2020",
+      "resumo": "A directora nacional de Saúde Pública, Rosa Marlene, anunciou esta tarde, 02 de Maio, que Moçambique já conta com 18 pessoas totalmente recuperadas da COVID-19, depois de nas últimas 24 horas terem sido dados alta oito doentes. Dos oito casos recuperados nas últimas 24 horas, seis (6) são da província de Cabo Delgado e dois (2) da província de Maputo."
+    },
+        {
+      "id": "43",
+      "pais": "Número de Casos de Covid-19 sobe para 79 no país",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "01 de Maio de 2020",
+      "resumo": "Moçambique registou mais três novos casos de infecção pelo novo Coronavírus, passando a ter um cumulativo de 79 casos positivos confirmados em laboratório, dos quais 10 são dados como recuperados. Dos 79 casos em referência, 71 são de transmissão local e 8 importados. Segundo explicou a directora Nacional de Saúde Pública, Rosa Marlene, falando esta sexta-feira,  01 de Maio, em Conferência de Imprensa de actualização de dados sobre a Covid-19, os três casos positivos resultam de um lote de 170 amostras testadas hoje, das quais 167 revelaram-se negativas."
+    },
+    {
+      "id": "42",
+      "pais": "País regista décimo recuperado da COVID-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "30 de Abril de 2020",
+      "resumo": "Moçambique não registou novos casos de infecção pelo novo coronavírus nas últimas 24 horas, após a testagem de 180 amostras de pessoas suspeitas de terem a doença. Entretanto, segundo anunciou a directora nacional de Saúde Pública, Rosa Marlene, o país teve o décimo paciente recuperado. Desta feita, Moçambique continua, pelo quarto dia consecutivo, com 76 casos positivos, dos quais 66 activos e dez recuperados, segundo informação tornada pública esta quinta-feira, 30 de Abril, na habitual conferência de imprensa de actualização de dados sobre a Covid-19."
+    },
+     {
+      "id": "41",
+      "pais": "Moçambique mantém registo de 76 casos positivos de COVID-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "29 de Abril de 2020",
+      "resumo": " Em conferência de imprensa realizada esta tarde (29/04), a directora nacional de saúde pública, Rosa Marlene, disse que o país continua com registo de 76 casos positivos, dos quais 68 casos de transmissão local e 8 importados. Rosa Marlene referiu igualmente que o Moçambique testou 1896 casos suspeitos, dos quais 113 nas últimas 24 horas, sendo que deste número 11 são de laboratórios privados, e todos revelaram-se negativos para a COVID-19. Das amostras testadas nas últimas 24 horas, 44 são de Cabo Delgado, 1 de Sofala, 18 da Província de Maputo e 50 da Cidade de Maputo."
+    },
+    {
+      "id": "40",
+      "pais": "Moçambique sem novos casos de COVID-19 nas últimas 48 horas",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "28 de Abril de 2020",
+      "resumo": "O país mantém um cumulativo de 76 casos positivos confirmados de infecção pelo novo coronavírus, passadas 48 horas desde que se anunciou a notificação dos últimos casos. Os dados partilhados na tarde de hoje, na habitual conferência de imprensa de actualização de informação sobre a pandemia provocada novo Coronavírus, indicam que nas últimas 24 horas foram testadas 84 amostras, sendo 31 da cidade de Maputo, 52 da província de Maputo e um proveniente de Gaza."
+    },
         {
       "id": "39",
       "pais": "Moçambique mantém 76 casos da COVID-19",
