@@ -1,5 +1,37 @@
 {
   "nodes": [
+     {
+      "id": "53",
+      "pais": "Moçambique poderá receber mais kits de testagem da Covid-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "10 de Maio de 2020",
+      "resumo": "O País poderá receber, nos próximos dias, um reforço de kits de testagem da infecção pelo novo Coronavírus, segundo garantiu esta tarde o director-geral do Instituto Nacional de Saúde, Ilesh Jani. Falando na habitual conferência de imprensa de actualização de dados sobre a Covid-19, o dirigente referiu que já foram encomendados testes nos países produtores, prevalecendo porém o problema do transporte dos mesmos devido ao bloqueio fronteiriço que muitos países impuseram para travar a propagação desta pandemia."
+    },
+         {
+      "id": "52",
+      "pais": "País regista mais quatro casos da Covd-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "10 de Maio de 2020",
+      "resumo": "Moçambique registou nas últimas 24 horas mais quatro casos de infecção pelo novo coronavírus, elevando o número total de doentes da Covid-19 para 91, sendo 82 de transmissão local e nove importados. Segundo explicou a directora nacional de Saúde Pública no Ministério da Saúde, Rosa Marlene, falando na tarde deste domingo, 10 de Maio, na habitual conferência de imprensa de actualização de dados sobre a evolução da pandemia no país, trata-se de três indivíduos nacionais e um sul-africano, todos trabalhadores da petrolífera Total e encontram-se no acampamento de Afungi, em Palma, província de Cabo Delgado."
+    },
+     {
+      "id": "51",
+      "pais": "Moçambique regista mais cinco casos de COVID-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "09 de Maio de 2020",
+      "resumo": "O Ministério da Saúde (MISAU) anunciou na tarde deste sábado, 09 de Maio, mais cinco casos de infecção pela COVID-19 nas últimas 24 horas, subindo para 87 o número de pessoas infectadas pelo novo coronavírus em Moçambique. Este facto foi anunciado em conferência de imprensa de actualização de dados da COVID-19 pelo Ministro da Saúde, Armindo Tiago, que avançou que os cinco casos diagnosticados encontram-se no acampamento de Afungi, em Cabo Delgado. Dos novos casos positivos, um é moçambicano, um queniano, um sul africano e dois britânicos."
+    },
+         {
+      "id": "50",
+      "pais": "Número de recuperados da COVID-19 sobe para 27 no país",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "08 de Maio de 2020",
+      "resumo": "Moçambique registou nas últimas 24 horas mais três casos de indivíduos recuperados da COVID-19, perfazendo 27 o número de pessoas totalmente curadas da doença. Dos três recuperados, dois são da cidade e 1 da província de Maputo. Segundo explicou a directora nacional de Saúde Pública, Rosa Marlene, durante a conferência de imprensa de actualização de casos da COVID-19, do total dos 27 casos recuperados, 13 são da cidade de Maputo, 9 de Cabo Delgado e 5 da província de Maputo."
+    },
              {
       "id": "49",
       "pais": "Moçambique regista mais três recuperados da COVID-19",
