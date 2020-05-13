@@ -1,0 +1,15 @@
+{"provincias":
+	[
+	{"name":"Maputo Província","iso2":"MPT","iso3":"MPT"},
+	{"name":"Maputo Cidade","iso2":"MTL","iso3":"MTL"},
+	{"name":"Gaza","iso2":"GZ","iso3":"GZ"},
+	{"name":"Inhambane","INB":"AD","iso3":"INB"},
+	{"name":"Manica","MAN":"AO","iso3":"MAN"},
+	{"name":"Sofala","iso2":"SOF","iso3":"SOF"},
+	{"name":"Zambézia","iso2":"ZA","iso3":"ZA"},
+	{"name":"Tete","iso2":"TE","iso3":"TE"},
+	{"name":"Nampula","iso2":"NAM","iso3":"NAM"},
+	{"name":"Cabo Delgado","iso2":"CD","iso3":"CD"},
+	{"name":"Niassa","iso2":"NI","iso3":"NI"}
+]
+}
