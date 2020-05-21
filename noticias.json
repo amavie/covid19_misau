@@ -1,5 +1,29 @@
 {
   "nodes": [
+        {
+      "id": "56",
+      "pais": "País regista mais 10 casos de covid-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "20 de Maio de 2020",
+      "resumo": "Moçambique registou nas últimas 24 horas mais dez casos de infecção pelo novo Coronavírus, passando desta forma a ter um cumulativo de 156 casos positivos confirmados em laboratório, dos quais 48 são dados como completamente recuperados. Dos 156 casos em referência, 122 são de transmissão local e 34 importados. Segundo explicou, na tarde desta quarta-feira, 20.05, a directora nacional de Saúde Pública no Ministério da Saúde, Rosa Marlene, em Conferência de Imprensa de actualização de dados sobre a Covid-19, os 10 casos positivos ora diagnosticados fazem parte de um lote de 232 amostras testadas hoje, das quais 222 revelaram-se negativas."
+    },
+         {
+      "id": "55",
+      "pais": "País regista um caso positivo e dois recuperados da Covid-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "19 de Maio de 2020",
+      "resumo": "O Ministério da Saúde (MISAU) anunciou esta terça-feira, 19 de Maio, a notificação de mais um caso positivo de infecção pelo novo coronavírus, elevando para 146 o total de pacientes registados desde o início da pandemia no país. A informação foi avançada esta tarde, 19.05, pela directora nacional de Saúde Pública, Rosa Marlene, durante a conferência de imprensa de actualização de casos de COVID-19, onde revelou que mais duas pessoas estão completamente recuperadas da doença."
+    },
+     {
+      "id": "54",
+      "pais": "Moçambique notifica mais 8 casos de Covid-19",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "18 de Maio de 2020",
+      "resumo": "O país notificou nas últimas 24 horas mais oito (8) casos positivos de infecção pelo novo Coronavírus, elevando para 145 o total de pessoas infectadas por este vírus, sendo 121 de transmissão local e 24 importados. Estes casos saíram de um lote de 261 amostras testadas nos laboratórios do Instituto Nacional de Saúde (INS) e de Biotecnologia da Universidade Eduardo Mondlane, todas recolhidas no âmbito dos trabalhos de vigilância activa, rastreio de rotina e de testagem de suspeitos."
+    },
      {
       "id": "53",
       "pais": "Moçambique poderá receber mais kits de testagem da Covid-19",
