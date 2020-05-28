@@ -1,5 +1,29 @@
 {
   "nodes": [
+            {
+      "id": "59",
+      "pais": "Segundo óbito por Covid-19 confirmado em Moçambique",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "28 de Maio de 2020",
+      "resumo": "A directora nacional de saúde pública em Moçambique, Rosa Marlene, anunciou há momentos a morte por Covid-19 de uma pessoa do sexo feminino, na faixa etária entre 44 e 52 anos de idade e que residia na cidade de Pemba, Província de Cabo Delgado. O segundo óbito por Covid-19 em Moçambique foi anunciado na conferência de imprensa diária de actualização de dados, onde também ficou a se saber que mais 11 pessoas estão totalmente recuperadas da doença."
+    },
+            {
+      "id": "58",
+      "pais": "Registados catorze casos de COVID-19 nas últimas 24 horas",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "27 de Maio de 2020",
+      "resumo": "egundo o balanço epidemiológico desta quarta-feira, 27 de Maio, anunciado pelo Ministério da Saúde (MISAU), catorze pessoas testaram positivo pelo novo coronavírus, perfazendo um total de 227 casos de infecção desde o início da pandemia em Moçambique. Dos novos casos notificados são todos referentes a cidadãos moçambicanos, sendo que dois estão na província de Nampula e doze de Cabo Delgado."
+    },
+            {
+      "id": "57",
+      "pais": "Casos de Covid-19 sobem para 213 no País",
+      "provincia": "",
+      "fonte": "covid19.ins.gov.mz",
+      "publicado": "26 de Maio de 2020",
+      "resumo": "O Ministério da Saúde (MISAU) anunciou esta tarde, 26 de Maio, em Conferência de Imprensa, o registo de mais quatro casos de infecção pelo novo coronavírus, subindo para 213 o cumulativo de pacientes testados positivos no país. Deste total de infectados, 187 são de transmissão local e 26 importados."
+    },
         {
       "id": "56",
       "pais": "País regista mais 10 casos de covid-19",
