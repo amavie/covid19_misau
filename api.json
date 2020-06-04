@@ -6,5 +6,5 @@
  "negativos":{"value":11744,"detail":"https://github.com/amavie/covid19_misau/deaths"},
  "activos":{"value":236,"detail":"https://github.com/amavie/covid19_misau/deaths"},
  "deaths":{"value":2,"detail":"https://github.com/amavie/covid19_misau/deaths"},
- "recovered":{"value":114,"detail":"https://github.com/amavie/covid19_misau/recovered"},
+ "recovered":{"value":115,"detail":"https://github.com/amavie/covid19_misau/recovered"},
 "lastUpdate":"2020-06-04T17:00:00.000Z"}
